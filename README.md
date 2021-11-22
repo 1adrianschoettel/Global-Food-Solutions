@@ -45,5 +45,16 @@ When a customer enters our app, they will be welcomed and asked the following:
 4. The user will be asked to input what option they prefer for each meal
   The system will then print the menu the user has chosen and will inform that the order will be shipped 
   as soon as possible.
+  
+# Extra Information about other algorithms  
+  
+One of the other two algorithms we used is the Greedy algorithm.
+
+It’s functionality is to provide us with the minimum amount of lockers needed to cover all the neighborhoods to maximize our efficiency.
+It will not be user-oriented because it is of no use to the user, however, it’s very useful for us though as it will save us a lot of money 
+but it only needs to be used once. It is important to mention that it must be updated and reused if we move to new locations or we want a different level of specificity (we want to have a locker close to every street instead of to every neighborhood). 
+This algorithm is configured by setting all the possible lockers and which neighborhoods they are connected to, and output is the minimum amount of lockers that covers all the neighborhoods. It doesn’t require any inputs.  
+  
+  
 
 
